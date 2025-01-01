@@ -1,14 +1,14 @@
-﻿# Mercari-Hackathon
+# Mercari-Women-Hackathon
 
 ## Project Overview
 This project, inspired by the Mercari Women Hackathon, aims to enhance the engagement of women users on the Mercari app. It introduces innovative features like community reels, personalized recommendations, and exclusive discounts tailored to female shoppers.
 
----
+___
 
 ## Problem Statement
 Engagement of women users on the Mercari app is a crucial focus. The project proposes solutions to enhance their experience and encourage active participation.
 
----
+___
 
 ## Solutions
 
@@ -34,7 +34,7 @@ Engagement of women users on the Mercari app is a crucial focus. The project pro
   - Group data by product attributes.
   - Recommend top-rated items based on group averages.
 
----
+___
 
 ## How Recommendations Work
 - **Returning Users**:
@@ -47,14 +47,14 @@ Engagement of women users on the Mercari app is a crucial focus. The project pro
   - Calculates similarity scores between users.
   - Suggests items favored by similar users.
 
----
+___
 
 ## Exclusive Offers
 - **Women’s Products Discount**:
   - Discounts on 5+ items from the same seller.
   - Boosts user engagement, sales, and seller loyalty.
 
----
+___
 
 ## Technology Stack
 - **Frontend**: React.js.
@@ -62,7 +62,20 @@ Engagement of women users on the Mercari app is a crucial focus. The project pro
 - **Database**: Firebase.
 - **Authentication**: JWT.
 
----
+___
+
+## Visual Overview
+Below are some visual representations of the proposed features:
+
+1. **Feature 1 Illustration**:
+   ![Feature 1](images/001.jpg)
+
+2. **Feature 2 Illustration**:
+   ![Feature 2](images/002.jpg)
+
+3. **Feature 3 Illustration**:
+   ![Feature 3](images/003.jpg)
+___
 
 ## Future Enhancements
 1. **Augmented Reality (AR) Integration**:
@@ -77,15 +90,13 @@ Engagement of women users on the Mercari app is a crucial focus. The project pro
    - Assist with product searches and exclusive deals.
    - Simplify navigation and improve user engagement.
 
----
+___
+
 
 ## How to Use
 1. Clone the repository and install dependencies.
 2. Configure the backend and database settings.
 3. Deploy the application and test each feature.
 
----
-
 ## Acknowledgments
 This project was developed by Team D for the Mercari Women Hackathon to improve the shopping experience and foster a supportive community for women users.
-
